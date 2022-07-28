@@ -1,8 +1,6 @@
-https://m.facebook.com/ProgrammersCreateLife/posts/1471225006259706
-
 ### Hi there 👋, I am Tushar
 #### Software Engineer based Dhaka, Bangladesh
-![Software Engineer based Dhaka, Bangladesh]
+![Software Engineer based Dhaka, Bangladesh](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/287388501_3100768360185963_8702043010171470559_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFc2FIgWUtVT2L7SJCayLlYTcQLRGp9ffhNxAtEan19-NLBR55WOMgFMUnDmy9qmV7a6HmmY17sueqlnTr6d20q&_nc_ohc=ChUrwNmzFqAAX_gkfP6&_nc_ht=scontent.fdac8-1.fna&oh=00_AT_iV7dVQCRgekcWPrOs9SLqwbGelmOhJd0AjMAo8-C7kw&oe=62E75F16)
 
 I am a Computer Science & Engineering graduate from Brac University, Dhaka, Bangladesh
 
