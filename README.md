@@ -23,7 +23,7 @@ Skills: Flutter  Dart  Java  C#  PHP  HTML  CSS   Python
 
 <h3 align="center">A Software Engineer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: tushar.sreaty.sikdar@gmail.com</h3>
 <p align="left">
 </p>
 
