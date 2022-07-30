@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Tushar
 #### Software Engineer based Dhaka, Bangladesh
-![Software Engineer based Dhaka, Bangladesh]([https://dribbble.com/shots/15651628-E-Commerce-Website/attachments/7444737?mode=media](https://cdn.dribbble.com/users/7868173/screenshots/15651628/media/1f91f633b06cb07f223cb377cd22b9bf.png?compress=1&resize=1600x1200&vertical=top))
+(https://cdn.dribbble.com/users/7868173/screenshots/15651628/media/1f91f633b06cb07f223cb377cd22b9bf.png?compress=1&resize=1600x1200&vertical=top))
 
 I am a Computer Science & Engineering graduate from Brac University, Dhaka, Bangladesh
 
