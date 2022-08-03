@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Tushar
 #### Software Engineer based Dhaka, Bangladesh
 
+![coding](https://user-images.githubusercontent.com/55484097/182688021-6c292c8f-048f-4663-8404-bc535c2a5a18.gif)
+
 I am a Computer Science & Engineering graduate from Brac University, Dhaka, Bangladesh
 
 Skills: Flutter  Dart  Java  C#  PHP  HTML  CSS   Python  
