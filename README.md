@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Tushar
 #### Software Engineer based Dhaka, Bangladesh
 
-![coding](https://user-images.githubusercontent.com/55484097/182688021-6c292c8f-048f-4663-8404-bc535c2a5a18.gif)
+![LH4O](https://user-images.githubusercontent.com/55484097/182691585-0212fff8-26ba-4f50-987c-8069b582c3f6.gif)
 
 I am a Computer Science & Engineering graduate from Brac University, Dhaka, Bangladesh
 
