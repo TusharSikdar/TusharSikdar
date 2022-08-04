@@ -1,4 +1,5 @@
-### Hi there 👋, I am Tushar
+### Hi there 👋
+####I am Tushar
 #### Software Engineer based Dhaka, Bangladesh
 
 ![LH4O](https://user-images.githubusercontent.com/55484097/182691585-0212fff8-26ba-4f50-987c-8069b582c3f6.gif)
