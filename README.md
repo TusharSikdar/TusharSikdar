@@ -1,4 +1,4 @@
-[![MasterHead](https://medium.com/googleplaydev/accelerating-app-development-with-flutter-db211bc4b120](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvW0QyEAYf731fZdpxGAzvzXhW9fRCsb0WNGHo_NZUUUozuy3E5IIPHO38BG97gToglg&usqp=CAU)
+[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)]
 
 <h3 align="center">Hey 👋</h3>
 <h1 align="center">I am Tushar</h1>
