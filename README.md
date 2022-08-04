@@ -1,4 +1,4 @@
-[![MasterHead](https://medium.com/googleplaydev/accelerating-app-development-with-flutter-db211bc4b120)
+![MasterHead](https://medium.com/googleplaydev/accelerating-app-development-with-flutter-db211bc4b120)
 
 <h3 align="center">Hey 👋</h3>
 <h1 align="center">I am Tushar</h1>
