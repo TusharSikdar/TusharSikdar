@@ -5,7 +5,7 @@
 <h4 align="center"><a href="https://twitter.com/tusharsikdar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tusharsikdar_" height="30" width="40"/></a>
 <a href="https://facebook.com/Tushar1590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@tusharsikdar" height="30" width="40"/></a>
 <a href="https://instagram.com/tusharsikdar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@tusharsikdar_" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/tusharsikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharsikdar" height="30" width="40" /></a></h4><br>
+<a href="https://linkedin.com/in/tusharsikdar" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1659622791~hmac=7ad573bc6d6aeaf54eb7fa867a375761" alt="tusharsikdar" height="30" width="40" /></a></h4><br>
 
 <h4 align="center">Skills: Flutter  |  Dart  |  Java  |  C#  |  PHP  |  HTML  |  CSS  |  Python  |  Arduino</h4><br>
 
