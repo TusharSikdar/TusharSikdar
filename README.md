@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I am Tushar
 ##### Software Engineer based Dhaka, Bangladesh
+<h3 align="left">Connect with me: tushar.sreaty.sikdar@gmail.com</h3>
 
 ![LH4O](https://user-images.githubusercontent.com/55484097/182691585-0212fff8-26ba-4f50-987c-8069b582c3f6.gif)
 
@@ -26,7 +27,6 @@ Skills: Flutter | Dart | Java | C# | PHP | HTML | CSS | Python
 
 <h3 align="center">A Software Engineer from Bangladesh</h3>
 
-<h3 align="left">Connect with me: tushar.sreaty.sikdar@gmail.com</h3>
 <p align="left">
 </p>
 
