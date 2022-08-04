@@ -1,10 +1,8 @@
-<h3 align="center">Hey 👋</h3><br>
-<h1 align="center">I am Tushar</h1><br>
-<h3 align="center">Software Engineer based Dhaka, Bangladesh</h3><br>
-<h5 align="left">Connect with me: tushar.sreaty.sikdar@gmail.com</h5><br>
-
+<h3 align="center">Hey 👋</h3>
+<h1 align="center">I am Tushar</h1>
+<h3 align="center">Software Engineer based Dhaka, Bangladesh</h3>
+<h5 align="center">Connect with me: tushar.sreaty.sikdar@gmail.com</h5><br>
 I am a Computer Science & Engineering graduate from BRAC University, Dhaka, Bangladesh
-
 Skills: Flutter | Dart | Java | C# | PHP | HTML | CSS | Python  
 
 <a href="https://twitter.com/tusharsikdar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tusharsikdar_" height="30" width="40"/></a>
