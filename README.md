@@ -1,4 +1,4 @@
-![giphy (1)](https://user-images.githubusercontent.com/55484097/182870339-ca59d6e7-3b06-4dc3-b0a2-1d594a1707d8.gif)
+<h3 align="center">Hey 👋</h3>
 <h1 align="center">I am Tushar</h1>
 <h3 align="center">Software Engineer & Mobile Apps Developer based on Dhaka, Bangladesh</h3>
 <h5 align="center">Connect with me: tushar.sreaty.sikdar@gmail.com</h5>
