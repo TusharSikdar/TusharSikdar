@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Tushar
 ##### Software Engineer based Dhaka, Bangladesh
-<h3 align="left">Connect with me: tushar.sreaty.sikdar@gmail.com</h3>
+<h5 align="left">Connect with me: tushar.sreaty.sikdar@gmail.com</h5>
 
 ![LH4O](https://user-images.githubusercontent.com/55484097/182691585-0212fff8-26ba-4f50-987c-8069b582c3f6.gif)
 
