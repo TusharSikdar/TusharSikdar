@@ -16,7 +16,8 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/tusharsikdar)  ![d928dh2-4a536766-493b-45a7-9986-213a5ab5fba8](https://user-images.githubusercontent.com/55484097/183008455-b7a3c4ac-d844-41a0-8400-5db23a0ca369.gif)
+![Profile views](https://gpvc.arturio.dev/tusharsikdar)  ![VengefulDeterminedCrocodileskink-size_restricted](https://user-images.githubusercontent.com/55484097/183008822-ecf3ddf9-0fba-4af7-aacc-335943b7e8ae.gif)
+
 
 
 
