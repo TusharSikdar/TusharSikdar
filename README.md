@@ -16,4 +16,6 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/tusharsikdar)  
+![Profile views](https://gpvc.arturio.dev/tusharsikdar)  ![89a561125151892ab2ee013a69ed5c18](https://user-images.githubusercontent.com/55484097/183007850-7a33af0b-d5be-4f22-ac2e-b25af12b8f92.gif)
+
+
