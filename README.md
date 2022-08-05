@@ -1,4 +1,4 @@
-![MasterHead](https://lottiefiles.com/108333-coding)
+![MasterHead](https://assets8.lottiefiles.com/packages/lf20_6nyhdivz.json)
 
 <h3 align="center">Hey 👋</h3>
 <h1 align="center">I am Tushar</h1>
