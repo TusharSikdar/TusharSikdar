@@ -1,4 +1,5 @@
-![MasterHead](https://assets8.lottiefiles.com/packages/lf20_6nyhdivz.json)
+![81570-my-profession-01](https://user-images.githubusercontent.com/55484097/183004144-80632cff-a9b1-4e62-a3a9-9ad5c5ff2235.gif)
+
 
 <h3 align="center">Hey 👋</h3>
 <h1 align="center">I am Tushar</h1>
