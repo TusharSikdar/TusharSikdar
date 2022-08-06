@@ -19,5 +19,3 @@
 
 
 
-![VengefulDeterminedCrocodileski-unscreen](https://user-images.githubusercontent.com/55484097/183241134-56d3b44f-e95c-4fe7-96ca-2675a930d33e.gif)
-
