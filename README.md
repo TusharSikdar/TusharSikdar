@@ -3,8 +3,8 @@
 <h3 align="center">Hey 👋</h3>
 <h1 align="center">I am Tushar</h1>
 <h3 align="center">Software Engineer & Mobile Apps Developer based on Dhaka, Bangladesh</h3>
-<h5 align="center">✉️ tushar.sreaty.sikdar@gmail.com ✉️</h5>
 <h5 align="center">👇🏽 : Connect with me on : 👇🏽</h5>
+<h4 align="center">✉️ tushar.sreaty.sikdar@gmail.com ✉️</h4>
 <h4 align="center"><a href="https://twitter.com/tusharsikdar_" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659622902~hmac=b1dde46898217aaee1646182b623a52e" alt="@tusharsikdar_" height="40" width="40"/></a>
 <a href="https://facebook.com/Tushar1590" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1659622933~hmac=f271466d9871a217649c40828be89964" alt="@tusharsikdar" height="40" width="40"/></a>
 <a href="https://instagram.com/tusharsikdar_" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504918.png?token=exp=1659622966~hmac=fb5120e0e09f4077c2a90b68a2f9e09a" alt="@tusharsikdar_" height="40" width="40"/></a>
@@ -16,6 +16,3 @@
 
 ![Profile views](https://gpvc.arturio.dev/tusharsikdar)
 <p><img align="center"src="https://user-images.githubusercontent.com/55484097/183241134-56d3b44f-e95c-4fe7-96ca-2675a930d33e.gif" width="120"/></p>
-
-
-
