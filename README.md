@@ -7,7 +7,7 @@
 <h4 align="center">✉️ tushar.sreaty.sikdar@gmail.com ✉️</h4>
 <h4 align="center"><a href="https://twitter.com/tusharsikdar_" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter-circled--v1.png" alt="@tusharsikdar_" height="40" width="40"/></a>
 <a href="https://facebook.com/Tushar1590" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/facebook-new.png" alt="@tusharsikdar" height="40" width="40"/></a>
-<a href="https://instagram.com/tusharsikdar_" target="blank"><img align="center" src="hhttps://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1661232676~hmac=2ac3c6c9e14ef0876c5603839f23eb62" alt="@tusharsikdar_" height="40" width="40"/></a>
+<a href="https://instagram.com/tusharsikdar_" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1661234602~hmac=22bd51e838bfc47904e180cb36a2a251" alt="@tusharsikdar_" height="40" width="40"/></a>
 <a href="https://linkedin.com/in/tusharsikdar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/179/179330.png" alt="tusharsikdar" height="40" width="40" /></a></h4><br>
 
 <h4 align="center">Skills: Flutter  |  Dart  |  Java  |  C#  |  PHP  |  HTML  |  CSS  |  Python  |  Arduino</h4><br>
