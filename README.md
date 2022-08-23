@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer & Mobile Apps Developer based on Dhaka, Bangladesh</h3>
 <h5 align="center">👇🏽 : Connect with me on : 👇🏽</h5>
 <h4 align="center">✉️ tushar.sreaty.sikdar@gmail.com ✉️</h4>
-<h4 align="center"><a href="https://twitter.com/tusharsikdar_" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659622902~hmac=b1dde46898217aaee1646182b623a52e" alt="@tusharsikdar_" height="40" width="40"/></a>
+<h4 align="center"><a href="https://twitter.com/tusharsikdar_" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter-circled--v1.png" alt="@tusharsikdar_" height="40" width="40"/></a>
 <a href="https://facebook.com/Tushar1590" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/facebook-new.png" alt="@tusharsikdar" height="40" width="40"/></a>
 <a href="https://instagram.com/tusharsikdar_" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504918.png?token=exp=1659622966~hmac=fb5120e0e09f4077c2a90b68a2f9e09a" alt="@tusharsikdar_" height="40" width="40"/></a>
 <a href="https://linkedin.com/in/tusharsikdar" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659622791~hmac=5e78a05f7d3b5c7c5c8041990632887f" alt="tusharsikdar" height="40" width="40" /></a></h4><br>
